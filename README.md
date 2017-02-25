@@ -1,11 +1,1 @@
-<!DOCTYPE html>
-<html lang= "en"  >
-<head>
-<title>KATHERINE NGUYEN</title>
-</head>
-<body>
-<h1>HI WELCOME TO THE STORY OF MY LIFE!</h1>
-<p>I'M A SOPHMORE WHO JUST STARTED. I WAS LURED BY ANNE. THIS IS GONNA BE A RANT PAGE. FEEL FREE TO VENT SOME ANGER OUT HERE. </p>
-</body>
-</html>
 
